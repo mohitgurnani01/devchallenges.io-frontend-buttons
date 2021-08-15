@@ -1,0 +1,24 @@
+.custom-button {
+  width: 80px;
+  height: 40px;
+  box-shadow: -3px 4px 5px 0px #9999993d;
+  border: 0px;
+  background-color: #99999954;
+  font-weight: 700;
+  color: #4e4e4e;
+  font-size: 0.9em;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.outline {
+  background-color: #fff;
+  color: #2a6ede;
+  border: 1.5px solid #2a6ede;
+}
+
+.text {
+  background-color: #fff;
+  color: #2a6ede;
+  box-shadow: none;
+}
